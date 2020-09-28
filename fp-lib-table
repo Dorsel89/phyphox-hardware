@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name phyphox_CO2_Monitor)(type KiCad)(uri ${KIPRJMOD}/phyphox_CO2_Monitor.pretty)(options "")(descr ""))
+)

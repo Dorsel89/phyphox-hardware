@@ -1,0 +1,224 @@
+EESchema Schematic File Version 4
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L phyphox_CO2_Monitor:ESP32-DEVKITC-32D U1
+U 1 1 5F6F9CA2
+P 3550 3350
+F 0 "U1" H 3550 4517 50  0000 C CNN
+F 1 "ESP32-DEVKITC-32D" H 3550 4426 50  0000 C CNN
+F 2 "phyphox_CO2_Monitor:ESP32-DevKitC-32D" H 3550 3350 50  0001 L BNN
+F 3 "" H 3550 3350 50  0001 L BNN
+F 4 "Espressif Systems" H 3550 3350 50  0001 L BNN "Feld4"
+	1    3550 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L phyphox_CO2_Monitor:SCD30 U2
+U 1 1 5F6FAC29
+P 5700 3850
+F 0 "U2" H 5700 4515 50  0000 C CNN
+F 1 "SCD30" H 5700 4424 50  0000 C CNN
+F 2 "phyphox_CO2_Monitor:SCD30" H 5700 3850 50  0001 L BNN
+F 3 "" H 5700 3850 50  0001 L BNN
+F 4 "D1" H 5700 3850 50  0001 L BNN "Feld4"
+F 5 "Manufacturer Recommendations" H 5700 3850 50  0001 L BNN "Feld5"
+F 6 "Sensirion" H 5700 3850 50  0001 L BNN "Feld6"
+	1    5700 3850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5F6FBB23
+P 6600 2300
+F 0 "R4" V 6393 2300 50  0000 C CNN
+F 1 "4.7k" V 6484 2300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 6530 2300 50  0001 C CNN
+F 3 "~" H 6600 2300 50  0001 C CNN
+	1    6600 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5F6FCE49
+P 6600 2650
+F 0 "R5" V 6393 2650 50  0000 C CNN
+F 1 "4.7k" V 6484 2650 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 6530 2650 50  0001 C CNN
+F 3 "~" H 6600 2650 50  0001 C CNN
+	1    6600 2650
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VDD #PWR0101
+U 1 1 5F6FD36C
+P 6750 2300
+F 0 "#PWR0101" H 6750 2150 50  0001 C CNN
+F 1 "VDD" V 6767 2428 50  0000 L CNN
+F 2 "" H 6750 2300 50  0001 C CNN
+F 3 "" H 6750 2300 50  0001 C CNN
+	1    6750 2300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VDD #PWR0102
+U 1 1 5F6FE441
+P 6750 2650
+F 0 "#PWR0102" H 6750 2500 50  0001 C CNN
+F 1 "VDD" V 6767 2778 50  0000 L CNN
+F 2 "" H 6750 2650 50  0001 C CNN
+F 3 "" H 6750 2650 50  0001 C CNN
+	1    6750 2650
+	0    1    1    0   
+$EndComp
+Text GLabel 6450 2300 0    50   Input ~ 0
+SDA
+Text GLabel 5100 3950 0    50   Input ~ 0
+SDA
+Text GLabel 5100 3850 0    50   Input ~ 0
+SCL
+Text GLabel 6450 2650 0    50   Input ~ 0
+SCL
+$Comp
+L power:VDD #PWR0103
+U 1 1 5F6FEE24
+P 6300 3450
+F 0 "#PWR0103" H 6300 3300 50  0001 C CNN
+F 1 "VDD" V 6317 3578 50  0000 L CNN
+F 2 "" H 6300 3450 50  0001 C CNN
+F 3 "" H 6300 3450 50  0001 C CNN
+	1    6300 3450
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5F6FF548
+P 6300 4150
+F 0 "#PWR0104" H 6300 3900 50  0001 C CNN
+F 1 "GND" V 6305 4022 50  0000 R CNN
+F 2 "" H 6300 4150 50  0001 C CNN
+F 3 "" H 6300 4150 50  0001 C CNN
+	1    6300 4150
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5F6FFEDA
+P 5100 3650
+F 0 "#PWR0105" H 5100 3400 50  0001 C CNN
+F 1 "GND" V 5105 3522 50  0000 R CNN
+F 2 "" H 5100 3650 50  0001 C CNN
+F 3 "" H 5100 3650 50  0001 C CNN
+	1    5100 3650
+	0    1    1    0   
+$EndComp
+Text GLabel 6300 3850 2    50   Input ~ 0
+RDY
+$Comp
+L power:VDD #PWR0106
+U 1 1 5F700874
+P 2750 2450
+F 0 "#PWR0106" H 2750 2300 50  0001 C CNN
+F 1 "VDD" V 2768 2577 50  0000 L CNN
+F 2 "" H 2750 2450 50  0001 C CNN
+F 3 "" H 2750 2450 50  0001 C CNN
+	1    2750 2450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5F704DE3
+P 4350 2450
+F 0 "#PWR0107" H 4350 2200 50  0001 C CNN
+F 1 "GND" V 4355 2322 50  0000 R CNN
+F 2 "" H 4350 2450 50  0001 C CNN
+F 3 "" H 4350 2450 50  0001 C CNN
+	1    4350 2450
+	0    -1   -1   0   
+$EndComp
+Text GLabel 4350 2950 2    50   Input ~ 0
+SDA
+Text GLabel 4350 2650 2    50   Input ~ 0
+SCL
+$Comp
+L Device:R R1
+U 1 1 5F70B10C
+P 6000 1100
+F 0 "R1" V 5793 1100 50  0000 C CNN
+F 1 "56" V 5884 1100 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 5930 1100 50  0001 C CNN
+F 3 "~" H 6000 1100 50  0001 C CNN
+	1    6000 1100
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:LED_BARG D1
+U 1 1 5F70B699
+P 6350 1300
+F 0 "D1" H 6350 1797 50  0000 C CNN
+F 1 "LED_BARG" H 6350 1706 50  0000 C CNN
+F 2 "phyphox_CO2_Monitor:WP154A4SEJ3VBDZGWCA" H 6350 1250 50  0001 C CNN
+F 3 "https://www.mouser.de/datasheet/2/216/WP154A4SEJ3VBDZGW-CA-1145236.pdf" H 6350 1250 50  0001 C CNN
+	1    6350 1300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5F70DE6F
+P 6000 1500
+F 0 "R3" V 5793 1500 50  0000 C CNN
+F 1 "1" V 5884 1500 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 5930 1500 50  0001 C CNN
+F 3 "~" H 6000 1500 50  0001 C CNN
+	1    6000 1500
+	0    1    1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5F70EB26
+P 6000 1300
+F 0 "R2" V 5793 1300 50  0000 C CNN
+F 1 "1" V 5884 1300 50  0000 C CNN
+F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 5930 1300 50  0001 C CNN
+F 3 "~" H 6000 1300 50  0001 C CNN
+	1    6000 1300
+	0    1    1    0   
+$EndComp
+$Comp
+L power:VDD #PWR0108
+U 1 1 5F710924
+P 6550 1300
+F 0 "#PWR0108" H 6550 1150 50  0001 C CNN
+F 1 "VDD" V 6567 1428 50  0000 L CNN
+F 2 "" H 6550 1300 50  0001 C CNN
+F 3 "" H 6550 1300 50  0001 C CNN
+	1    6550 1300
+	0    1    1    0   
+$EndComp
+Text GLabel 2750 3150 0    50   Input ~ 0
+RED
+Text GLabel 2750 3250 0    50   Input ~ 0
+BLUE
+Text GLabel 2750 3350 0    50   Input ~ 0
+GREEN
+Text GLabel 4350 3350 2    50   Input ~ 0
+RDY
+Text GLabel 5850 1100 0    50   Input ~ 0
+RED
+Text GLabel 5850 1500 0    50   Input ~ 0
+BLUE
+Text GLabel 5850 1300 0    50   Input ~ 0
+GREEN
+$EndSCHEMATC
