@@ -1,4 +1,5 @@
 EESchema Schematic File Version 4
+LIBS:phyphox_CO2_Monitor-cache
 EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
@@ -23,20 +24,6 @@ F 2 "phyphox_CO2_Monitor:ESP32-DevKitC-32D" H 3550 3350 50  0001 L BNN
 F 3 "" H 3550 3350 50  0001 L BNN
 F 4 "Espressif Systems" H 3550 3350 50  0001 L BNN "Feld4"
 	1    3550 3350
-	1    0    0    -1  
-$EndComp
-$Comp
-L phyphox_CO2_Monitor:SCD30 U2
-U 1 1 5F6FAC29
-P 5700 3850
-F 0 "U2" H 5700 4515 50  0000 C CNN
-F 1 "SCD30" H 5700 4424 50  0000 C CNN
-F 2 "phyphox_CO2_Monitor:SCD30" H 5700 3850 50  0001 L BNN
-F 3 "" H 5700 3850 50  0001 L BNN
-F 4 "D1" H 5700 3850 50  0001 L BNN "Feld4"
-F 5 "Manufacturer Recommendations" H 5700 3850 50  0001 L BNN "Feld5"
-F 6 "Sensirion" H 5700 3850 50  0001 L BNN "Feld6"
-	1    5700 3850
 	1    0    0    -1  
 $EndComp
 $Comp
@@ -85,72 +72,72 @@ F 3 "" H 6750 2650 50  0001 C CNN
 $EndComp
 Text GLabel 6450 2300 0    50   Input ~ 0
 SDA
-Text GLabel 5100 3950 0    50   Input ~ 0
+Text GLabel 5550 3900 0    50   Input ~ 0
 SDA
-Text GLabel 5100 3850 0    50   Input ~ 0
+Text GLabel 5550 3800 0    50   Input ~ 0
 SCL
 Text GLabel 6450 2650 0    50   Input ~ 0
 SCL
 $Comp
 L power:VDD #PWR0103
 U 1 1 5F6FEE24
-P 6300 3450
-F 0 "#PWR0103" H 6300 3300 50  0001 C CNN
-F 1 "VDD" V 6317 3578 50  0000 L CNN
-F 2 "" H 6300 3450 50  0001 C CNN
-F 3 "" H 6300 3450 50  0001 C CNN
-	1    6300 3450
+P 7050 3400
+F 0 "#PWR0103" H 7050 3250 50  0001 C CNN
+F 1 "VDD" V 7067 3528 50  0000 L CNN
+F 2 "" H 7050 3400 50  0001 C CNN
+F 3 "" H 7050 3400 50  0001 C CNN
+	1    7050 3400
 	0    1    1    0   
 $EndComp
 $Comp
 L power:GND #PWR0104
 U 1 1 5F6FF548
-P 6300 4150
-F 0 "#PWR0104" H 6300 3900 50  0001 C CNN
-F 1 "GND" V 6305 4022 50  0000 R CNN
-F 2 "" H 6300 4150 50  0001 C CNN
-F 3 "" H 6300 4150 50  0001 C CNN
-	1    6300 4150
+P 7050 4100
+F 0 "#PWR0104" H 7050 3850 50  0001 C CNN
+F 1 "GND" V 7055 3972 50  0000 R CNN
+F 2 "" H 7050 4100 50  0001 C CNN
+F 3 "" H 7050 4100 50  0001 C CNN
+	1    7050 4100
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR0105
 U 1 1 5F6FFEDA
-P 5100 3650
-F 0 "#PWR0105" H 5100 3400 50  0001 C CNN
-F 1 "GND" V 5105 3522 50  0000 R CNN
-F 2 "" H 5100 3650 50  0001 C CNN
-F 3 "" H 5100 3650 50  0001 C CNN
-	1    5100 3650
+P 5550 3600
+F 0 "#PWR0105" H 5550 3350 50  0001 C CNN
+F 1 "GND" V 5555 3472 50  0000 R CNN
+F 2 "" H 5550 3600 50  0001 C CNN
+F 3 "" H 5550 3600 50  0001 C CNN
+	1    5550 3600
 	0    1    1    0   
 $EndComp
-Text GLabel 6300 3850 2    50   Input ~ 0
+Text GLabel 7050 3800 2    50   Input ~ 0
 RDY
 $Comp
 L power:VDD #PWR0106
 U 1 1 5F700874
-P 2750 2450
-F 0 "#PWR0106" H 2750 2300 50  0001 C CNN
-F 1 "VDD" V 2768 2577 50  0000 L CNN
-F 2 "" H 2750 2450 50  0001 C CNN
-F 3 "" H 2750 2450 50  0001 C CNN
-	1    2750 2450
+P 2250 2450
+F 0 "#PWR0106" H 2250 2300 50  0001 C CNN
+F 1 "VDD" V 2268 2577 50  0000 L CNN
+F 2 "" H 2250 2450 50  0001 C CNN
+F 3 "" H 2250 2450 50  0001 C CNN
+	1    2250 2450
 	0    -1   -1   0   
 $EndComp
 $Comp
 L power:GND #PWR0107
 U 1 1 5F704DE3
-P 4350 2450
-F 0 "#PWR0107" H 4350 2200 50  0001 C CNN
-F 1 "GND" V 4355 2322 50  0000 R CNN
-F 2 "" H 4350 2450 50  0001 C CNN
-F 3 "" H 4350 2450 50  0001 C CNN
-	1    4350 2450
+P 4850 2450
+F 0 "#PWR0107" H 4850 2200 50  0001 C CNN
+F 1 "GND" V 4855 2322 50  0000 R CNN
+F 2 "" H 4850 2450 50  0001 C CNN
+F 3 "" H 4850 2450 50  0001 C CNN
+	1    4850 2450
 	0    -1   -1   0   
 $EndComp
-Text GLabel 4350 2950 2    50   Input ~ 0
+Text GLabel 4850 2950 2    50   Input ~ 0
 SDA
-Text GLabel 4350 2650 2    50   Input ~ 0
+Text GLabel 4850 2650 2    50   Input ~ 0
 SCL
 $Comp
 L Device:R R1
@@ -207,13 +194,13 @@ F 3 "" H 6550 1300 50  0001 C CNN
 	1    6550 1300
 	0    1    1    0   
 $EndComp
-Text GLabel 2750 3250 0    50   Input ~ 0
+Text GLabel 2250 3250 0    50   Input ~ 0
 RED
-Text GLabel 2750 3150 0    50   Input ~ 0
+Text GLabel 2250 3150 0    50   Input ~ 0
 BLUE
-Text GLabel 2750 3350 0    50   Input ~ 0
+Text GLabel 2250 3350 0    50   Input ~ 0
 GREEN
-Text GLabel 4350 3350 2    50   Input ~ 0
+Text GLabel 4850 3350 2    50   Input ~ 0
 RDY
 Text GLabel 5850 1100 0    50   Input ~ 0
 RED
@@ -221,4 +208,235 @@ Text GLabel 5850 1500 0    50   Input ~ 0
 BLUE
 Text GLabel 5850 1300 0    50   Input ~ 0
 GREEN
+$Comp
+L Connector:Conn_01x19_Female J1
+U 1 1 5F893E8B
+P 2400 3350
+F 0 "J1" H 2292 4435 50  0000 C CNN
+F 1 "Conn_01x19_Female" H 2292 4344 50  0000 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical" H 2400 3350 50  0001 C CNN
+F 3 "~" H 2400 3350 50  0001 C CNN
+	1    2400 3350
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x19_Female J2
+U 1 1 5F89BA2D
+P 4700 3350
+F 0 "J2" H 4728 3376 50  0000 L CNN
+F 1 "Conn_01x19_Female" H 4728 3285 50  0000 L CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical" H 4700 3350 50  0001 C CNN
+F 3 "~" H 4700 3350 50  0001 C CNN
+	1    4700 3350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Connector:Conn_01x07_Male J3
+U 1 1 5F89FC9B
+P 7850 3700
+F 0 "J3" H 7822 3724 50  0000 R CNN
+F 1 "Conn_01x07_Male" H 7822 3633 50  0000 R CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 7822 3587 50  0001 R CNN
+F 3 "~" H 7850 3700 50  0001 C CNN
+	1    7850 3700
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4850 2450 4500 2450
+Connection ~ 4500 2450
+Wire Wire Line
+	4500 2450 4350 2450
+Wire Wire Line
+	4850 2650 4500 2650
+Connection ~ 4500 2650
+Wire Wire Line
+	4500 2650 4350 2650
+Wire Wire Line
+	4850 2950 4500 2950
+Connection ~ 4500 2950
+Wire Wire Line
+	4500 2950 4350 2950
+Wire Wire Line
+	4850 3350 4500 3350
+Connection ~ 4500 3350
+Wire Wire Line
+	4500 3350 4350 3350
+Wire Wire Line
+	4500 2550 4350 2550
+Wire Wire Line
+	4500 2750 4350 2750
+Wire Wire Line
+	4350 2850 4500 2850
+Wire Wire Line
+	4350 3050 4500 3050
+Wire Wire Line
+	4350 3150 4500 3150
+Wire Wire Line
+	4350 3250 4500 3250
+Wire Wire Line
+	4350 3450 4500 3450
+Wire Wire Line
+	4350 3550 4500 3550
+Wire Wire Line
+	4350 3650 4500 3650
+Wire Wire Line
+	4350 3750 4500 3750
+Wire Wire Line
+	4350 3850 4500 3850
+Wire Wire Line
+	4350 3950 4500 3950
+Wire Wire Line
+	4350 4050 4500 4050
+Wire Wire Line
+	4350 4150 4500 4150
+Wire Wire Line
+	4350 4250 4500 4250
+Wire Wire Line
+	2250 2450 2600 2450
+Connection ~ 2600 2450
+Wire Wire Line
+	2600 2450 2750 2450
+Wire Wire Line
+	2250 3150 2600 3150
+Connection ~ 2600 3150
+Wire Wire Line
+	2600 3150 2750 3150
+Wire Wire Line
+	2250 3250 2600 3250
+Connection ~ 2600 3250
+Wire Wire Line
+	2600 3250 2750 3250
+Wire Wire Line
+	2250 3350 2600 3350
+Connection ~ 2600 3350
+Wire Wire Line
+	2600 3350 2750 3350
+Wire Wire Line
+	2750 2550 2600 2550
+Wire Wire Line
+	2750 2650 2600 2650
+Wire Wire Line
+	2750 2750 2600 2750
+Wire Wire Line
+	2750 2850 2600 2850
+Wire Wire Line
+	2750 2950 2600 2950
+Wire Wire Line
+	2750 3050 2600 3050
+Wire Wire Line
+	2750 3450 2600 3450
+Wire Wire Line
+	2750 3550 2600 3550
+Wire Wire Line
+	2750 3650 2600 3650
+Wire Wire Line
+	2750 3750 2600 3750
+Wire Wire Line
+	2750 3850 2600 3850
+Wire Wire Line
+	2750 3950 2600 3950
+Wire Wire Line
+	2750 4050 2600 4050
+Wire Wire Line
+	2750 4150 2600 4150
+Wire Wire Line
+	2750 4250 2600 4250
+Wire Wire Line
+	7650 3500 7450 3500
+Wire Wire Line
+	7450 4200 7000 4200
+Wire Wire Line
+	7000 4200 7000 4100
+Wire Wire Line
+	7000 4100 7050 4100
+Wire Wire Line
+	6950 4100 7000 4100
+Connection ~ 7000 4100
+Wire Wire Line
+	6950 3600 7400 3600
+Wire Wire Line
+	7650 3600 7500 3600
+Wire Wire Line
+	7500 3600 7500 4250
+Wire Wire Line
+	7500 4250 5700 4250
+Wire Wire Line
+	5700 4250 5700 3800
+Connection ~ 5700 3800
+Wire Wire Line
+	5700 3800 5750 3800
+Wire Wire Line
+	7650 3700 7550 3700
+Wire Wire Line
+	7550 3700 7550 4300
+Wire Wire Line
+	7550 4300 5650 4300
+Wire Wire Line
+	5650 4300 5650 3900
+Connection ~ 5650 3900
+Wire Wire Line
+	5650 3900 5750 3900
+Wire Wire Line
+	5550 3800 5700 3800
+Wire Wire Line
+	5550 3900 5650 3900
+Wire Wire Line
+	5550 3600 5600 3600
+Wire Wire Line
+	7650 4000 7600 4000
+Wire Wire Line
+	7600 4000 7600 4350
+Wire Wire Line
+	7600 4350 5600 4350
+Wire Wire Line
+	5600 4350 5600 3600
+Connection ~ 5600 3600
+Wire Wire Line
+	6950 3800 7000 3800
+Wire Wire Line
+	7000 3900 7000 3800
+Connection ~ 7000 3800
+Wire Wire Line
+	7000 3800 7050 3800
+Wire Wire Line
+	7350 3900 7000 3900
+Wire Wire Line
+	7400 3900 7650 3900
+Wire Wire Line
+	7450 3500 7450 4200
+Wire Wire Line
+	7350 3800 7350 3900
+Wire Wire Line
+	7650 3800 7350 3800
+Wire Wire Line
+	7400 3600 7400 3900
+Wire Wire Line
+	5600 3600 5750 3600
+$Comp
+L phyphox_CO2_Monitor:SCD30 U2
+U 1 1 5F6FAC29
+P 6350 3800
+F 0 "U2" H 6350 4465 50  0000 C CNN
+F 1 "SCD30" H 6350 4374 50  0000 C CNN
+F 2 "phyphox_CO2_Monitor:SCD30" H 6350 3800 50  0001 L BNN
+F 3 "" H 6350 3800 50  0001 L BNN
+F 4 "D1" H 6350 3800 50  0001 L BNN "Feld4"
+F 5 "Manufacturer Recommendations" H 6350 3800 50  0001 L BNN "Feld5"
+F 6 "Sensirion" H 6350 3800 50  0001 L BNN "Feld6"
+	1    6350 3800
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	6950 3400 7000 3400
+Wire Wire Line
+	7400 3400 7400 3500
+Wire Wire Line
+	7400 3500 7000 3500
+Wire Wire Line
+	7000 3500 7000 3400
+Wire Wire Line
+	7400 3400 7650 3400
+Connection ~ 7000 3400
+Wire Wire Line
+	7000 3400 7050 3400
 $EndSCHEMATC
