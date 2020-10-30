@@ -1,3 +1,3 @@
 # phyphox Hardware
 
-This repository will contain manufactoring files of phyphox hardware projects
+This repository will contain manufacturing files of phyphox hardware projects
