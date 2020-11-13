@@ -8,82 +8,82 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="CO2Monitor_Lasercut_5mm.svg"
+   sodipodi:docname="CO2Monitor_Lasercut_4mm.svg"
    id="svg4971"
    version="1.1"
    width="272.64mm"
    viewBox="0.0 0.0 272.64 175.60"
    height="175.60mm">
   <g
-     style="stroke-width:0.00040606;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02314552;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1720"
      transform="matrix(0.94544808,0,0,0.79832646,6.8470749,3.681265)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00040606;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.02314552;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="g4911"
        transform="translate(-0.00711386,2.4008135)">
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 121.73776,15.87581 -5.15651,5.41133 v 2.51055 l 7.62009,-7.92188 h -2.46358"
          id="path4844"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 116.53709,26.565497 -0.0104,2.656106 12.60181,-13.345793 h -2.46359 z"
          id="path4846"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 116.54747,31.815329 v 2.523558 L 134.05568,15.87581 h -2.46358 z"
          id="path4848"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 116.52672,37.000141 -1e-5,2.549564 22.45615,-23.673895 h -2.46358 z"
          id="path4850"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 116.56048,44.786529 143.91002,15.87581 h -2.46357 l -24.89766,26.328696 c 0.0117,0.08748 0.0117,1.725246 0.0117,2.582023 z"
          id="path4852"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 116.51371,47.507558 v 3.032909 L 148.8372,15.87581 h -2.46358 z"
          id="path4854"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 118.19102,51.252801 31.90156,-34.022993 -0.0158,2.702088 -31.71766,33.67303 -1.82139,0.02339 0.003,-0.631424 z"
          id="path4856"
          sodipodi:nodetypes="ccccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 120.3852,53.662863 29.74628,-31.123854 v 2.57831 l -27.28269,28.545544 z"
          id="path4858"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 125.31237,53.662863 24.8395,-26.41936 0.0104,2.74965 -22.3863,23.66971 z"
          id="path4860"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 130.23954,53.662863 19.86294,-21.185155 0.0104,2.80943 -17.40974,18.375725 z"
          id="path4862"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 135.16671,53.662863 14.93839,-15.865175 0.0337,2.760048 -12.50858,13.105127 z"
          id="path4864"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 140.09389,53.662863 10.0476,-10.633581 0.0311,2.918592 -7.61517,7.714989 z"
          id="path4866"
          sodipodi:nodetypes="ccccc" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00040606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02314552;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 145.02105,53.662863 5.12044,-5.253823 0.0311,2.713267 -2.688,2.540556 z"
          id="path4868"
          sodipodi:nodetypes="ccccc" />
@@ -161,9 +161,9 @@
      inkscape:window-maximized="1"
      inkscape:window-y="-8"
      inkscape:window-x="1912"
-     inkscape:cy="281.97178"
-     inkscape:cx="677.15923"
-     inkscape:zoom="0.70710678"
+     inkscape:cy="307.20735"
+     inkscape:cx="723.14502"
+     inkscape:zoom="0.64"
      showgrid="false"
      id="namedview4973"
      inkscape:window-height="1017"
@@ -210,10 +210,10 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
   </metadata>
   <g
      transform="translate(-8.2148531,7.584455)"
-     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="fill:none;stroke:#ff0000;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="p-1">
     <path
-       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+       style="stroke:#ff0000;stroke-opacity:1;stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
        id="path4954"
        stroke-width="0.2"
        stroke="#000000"
@@ -225,10 +225,10 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
      stroke-width="0.2"
      id="path4960"
      sodipodi:nodetypes="ssssssccccssssssssssssssssssssssssssssssssssccccssssssssssssssssssccccsssssssssssssssssssssssssssssssssscccscssssssscscsccccccssccccccscsscsccccccssccccccscscssssssssssccssssssssssssssssssssssssssssssssssssssssccssssssssssssssssssssssssccssssssssssssssssssssssssssssssssssssssssccsssssssssscsccccccscsscsccccccssccccccscsscsccccccscss"
-     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1" />
+     style="fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none;stroke:#ff0000;stroke-opacity:1" />
   <path
      transform="matrix(0.12070244,0,0,0.12070244,50.254137,38.788128)"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1124);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.29227061;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1124);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      d="m 156.91946,-61.034565 c -0.0818,0.0016 -0.16476,0.0059 -0.24856,0.01241 v -5.29e-4 c -0.1268,0.0091 -0.25305,0.02461 -0.37827,0.04651 -1.82919,0.331713 -2.73972,1.509286 -3.2582,2.332156 -0.51846,0.822881 -0.80029,1.588913 -1.06402,2.426208 -0.52747,1.67459 -0.89727,3.64217 -1.24488,5.972763 -0.69523,4.661196 -1.23261,10.699691 -1.79214,17.05891 -0.55953,6.35919 -1.13582,13.02576 -1.86139,18.7637 -0.6153,4.8658603 -1.43168,8.3778903 -2.20606,10.9037303 -3.62159,0.48737 -7.1197,0.95841 -10.65569,1.43454 l 1.04542,7.43727 c 4.36143,-0.58705 8.66404,-1.16634 13.19144,-1.7756 1.33257,-0.17886 2.46794,-1.05625 2.97708,-2.30064 1.52212,-3.72405 2.34548,-8.79535 3.09956,-14.7587803 0.75409,-5.96345 1.33317,-12.6976 1.89187,-19.04742 0.49094,-5.579768 0.98847,-10.488905 1.53014,-14.592386 0.47698,1.389973 0.87147,2.270892 1.38855,3.959963 2.37479,7.757573 5.10166,18.294223 7.79022,28.833893 2.68856,10.5396603 5.34279,21.0844403 7.63571,29.03182 1.14645,3.97368 2.18957,7.27783 3.17448,9.74824 0.49247,1.23521 0.93944,2.24607 1.55908,3.20497 0.30981,0.47945 0.64242,0.96158 1.30224,1.50069 0.53864,0.44009 1.59373,0.8669 2.8019,0.88056 1.1153,-0.0157 2.23167,-0.3996 2.81275,-0.89296 0.65254,-0.55404 0.95739,-1.06123 1.20251,-1.51257 0.49023,-0.90272 0.71713,-1.69484 0.95085,-2.61276 0.46742,-1.83587 0.81354,-4.11164 1.14566,-6.83059 0.66424,-5.43791 1.21023,-12.5510997 1.77147,-19.6711597 0.56125,-7.12004 1.13865,-14.2487603 1.82314,-19.4944103 0.0208,-0.15981 0.043,-0.2151 0.0641,-0.37156 0.49684,1.13208 0.92729,2.01524 1.44798,3.2303 1.20411,2.80976 2.42355,5.66074 3.6251,7.97057 0.60077,1.1549103 1.17737,2.1674403 1.90221,3.1021403 0.36242,0.46735 0.75176,0.92351 1.36787,1.39061 0.61611,0.46708 1.58424,1.04772 2.99052,0.9989 0.1245,-0.005 0.24868,-0.0162 0.37207,-0.0336 3.97196,-0.53452 7.84747,-1.05573 11.76879,-1.58337 l -1.04542,-7.4388203 c -3.31768,0.44637 -6.59875,0.88767 -9.94823,1.33842 -0.23269,-0.3686 -0.43113,-0.6415 -0.74259,-1.24024 -0.98531,-1.89416 -2.18677,-4.66494 -3.38635,-7.46414 -1.19957,-2.79922 -2.3981,-5.63006 -3.55017,-7.90495 -0.57605,-1.13744 -1.1162,-2.12376 -1.80144,-3.0427 -0.34262,-0.45947 -0.70857,-0.9125 -1.3255,-1.39371 -0.61695,-0.48123 -1.67713,-1.13769 -3.21893,-0.98392 -0.0338,0.004 -0.0676,0.008 -0.10128,0.0129 -2.28427,0.29067 -3.11349,1.78377 -3.59565,2.67839 -0.48217,0.89461 -0.74934,1.73682 -1.00717,2.69751 -0.51571,1.92138 -0.90434,4.28374 -1.26763,7.06778 -0.72657,5.56811 -1.29894,12.7470103 -1.86086,19.8757903 -0.47532,6.0301 -0.95939,11.55009 -1.47175,16.3664497 -0.1993,-0.66585 -0.3382,-0.9602 -0.54467,-1.67587 -2.22958,-7.7278497 -4.87918,-18.2485097 -7.57163,-28.80341 -2.69246,-10.55491 -5.42604,-21.143244 -7.88634,-29.180127 -1.23016,-4.018444 -2.37407,-7.37901 -3.50211,-9.929627 -0.56403,-1.27531 -1.098,-2.340542 -1.82263,-3.33003 -0.36232,-0.494745 -0.7654,-0.985756 -1.42937,-1.475362 -0.62247,-0.458999 -1.61706,-0.962012 -2.84376,-0.936895 z m 105.04631,17.93534 c -0.23916,0.0027 -0.49326,0.02532 -0.76326,0.07183 -0.0712,0.01275 -0.14204,0.02759 -0.21239,0.04444 -1.61116,0.374724 -2.32695,1.374616 -2.72439,2.00556 -0.39742,0.630923 -0.58296,1.14599 -0.74982,1.665015 -0.33375,1.038024 -0.53115,2.103721 -0.71727,3.321762 -0.37228,2.436071 -0.63267,5.406131 -0.88367,8.339031 -0.251,2.9329 -0.4899,5.82728 -0.76016,7.85688 -0.0506,0.38065 -0.0894,0.49806 -0.14159,0.8077 -5.42062,0.72945 -10.75724,1.44725 -16.10961,2.16731 l 1.04541,7.4383103 c 6.05768,-0.8150803 12.09363,-1.6272203 18.25367,-2.4561803 2.00225,-0.23162 2.79161,-1.52144 3.15898,-2.16576 0.36739,-0.64433 0.50806,-1.12514 0.64544,-1.61696 0.27477,-0.98365 0.4385,-2.00079 0.59583,-3.18223 0.31463,-2.3629 0.54854,-5.29529 0.79788,-8.2088 0.007,-0.0921 0.0195,-0.15553 0.0274,-0.24754 0.52301,1.40454 0.96892,2.51397 1.51257,3.98684 1.37673,3.72981 2.7719,7.45925 4.08037,10.35699 0.65424,1.44887 1.25197,2.6713 2.00918,3.7677303 0.37859,0.54821 0.76659,1.08253 1.53582,1.66243 0.76359,0.57568 2.48799,1.28791 4.17287,0.65371 0.95713,-0.35855 1.97875,-1.09143 2.63912,-1.88257 0.67087,-0.80371 1.11015,-1.6128503 1.59319,-2.5858903 0.96608,-1.94609 2.09327,-4.67447 4.12687,-9.23923 0.84493,-1.89492 -0.006,-4.11601 -1.90117,-4.96094 -1.89492,-0.84492 -4.11601,0.006 -4.96094,1.90118 -1.47098,3.30187 -2.10921,4.7462 -2.84479,6.3841 -1.04095,-2.42872 -2.20208,-5.40859 -3.40237,-8.66045 -1.36791,-3.70595 -2.72787,-7.46011 -3.95273,-10.389029 -0.61246,-1.464471 -1.17258,-2.707103 -1.80041,-3.783232 -0.31393,-0.538067 -0.61523,-1.032404 -1.17099,-1.610754 -0.4863,-0.50604 -1.42493,-1.460016 -3.09903,-1.441257 z M 91.507952,-27.401997 c -0.123671,0.004 -0.251436,0.0127 -0.383958,0.0264 -0.09855,0.0108 -0.196643,0.0254 -0.294036,0.0439 -2.266188,0.41756 -2.964995,1.94174 -3.368271,2.81068 -0.403275,0.86893 -0.60104,1.65339 -0.78755,2.54145 -0.373034,1.77611 -0.607926,3.92173 -0.813904,6.44818 -0.411943,5.05291 -0.651991,11.5448803 -0.95963,17.9963203 -0.307663,6.45146 -0.69028,12.8722497 -1.328603,17.5017697 -0.183742,1.33255 -0.405609,2.03462 -0.621149,2.9962 -0.489847,-0.7544 -0.929579,-1.32188 -1.482598,-2.37246 -1.869575,-3.55168 -3.859802,-8.25495 -6.225458,-12.0845397 -1.090803,-1.76492 -3.405822,-2.31139 -5.170744,-1.22059 -1.764919,1.0908 -2.311401,3.4058197 -1.220597,5.1707397 1.874065,3.03381 3.87496,7.658 5.967592,11.6334 1.046311,1.9877 2.102578,3.82525 3.447336,5.39657 1.344758,1.57132 3.344765,3.28824 6.19342,3.05563 0.0088,-10e-4 0.01757,-0.002 0.02635,-0.003 1.704266,-0.15061 2.972816,-1.20891 3.670578,-2.11408 0.697778,-0.90517 1.078219,-1.79816 1.414902,-2.75022 0.673383,-1.90413 1.086696,-4.11087 1.441254,-6.68228 0.709102,-5.14283 1.081476,-11.6655797 1.391647,-18.1699497 0.259292,-5.43724 0.498084,-10.41829 0.787548,-14.8311403 0.682612,1.74359 1.309222,3.2171303 2.008146,5.0720403 1.434422,3.80677 2.831488,7.57059003 4.002341,10.3632 0.585417,1.39632 1.078702,2.51056 1.665012,3.50159 0.29317,0.49552 0.45255,0.9508 1.4087,1.70377 0.47808,0.37648 1.3839,1.00724 2.87063,0.86455 0.12661,-0.0126 0.20844,-0.10904 0.33021,-0.13488 2.28959,-0.30812 4.43448,-0.59692 6.67246,-0.89813 l -1.0449,-7.43624 c -1.49916,0.20181 -2.94266,0.39619 -4.46071,0.60048 -0.19019,-0.4114 -0.28825,-0.5635 -0.51521,-1.10483997 -1.06099,-2.53059003 -2.45725,-6.28168003 -3.89899,-10.10791003 -1.44175,-3.8262303 -2.929282,-7.7337103 -4.276739,-10.7921103 -0.673738,-1.5292 -1.291939,-2.82823 -1.969389,-3.94033 -0.338746,-0.55604 -0.670182,-1.06399 -1.222663,-1.6309 -0.517957,-0.53148 -1.397977,-1.51316 -3.253031,-1.45315 z"
      id="path12"
      inkscape:connector-curvature="0"
@@ -238,40 +238,40 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
      inkscape:connector-curvature="0"
      id="path895"
      d="m 154.24142,-119.00544 2.91559,20.745479 -19.91442,2.798739 c -10.22739,1.437428 -18.70843,5.341567 -23.96673,12.319582 -5.25825,6.978015 -6.67301,16.209751 -5.23563,26.437222 l 19.73414,140.415691 c 1.43736,10.22728 5.34149,18.708447 12.31944,23.966647 6.978,5.25835 16.20663,6.67345 26.43401,5.23621 l 49.9243,-7.01646 c 10.22741,-1.4374 18.70844,-5.34157 23.96672,-12.319427 5.25827,-6.97798 6.67348,-16.20657 5.23612,-26.43401 L 225.92082,-73.271488 c -1.43738,-10.227472 -5.34195,-18.711627 -12.31993,-23.969954 -6.97798,-5.258358 -16.20659,-6.673478 -26.43399,-5.236058 l -20.14413,2.83107 -2.91559,-20.7455 z m 2.91649,20.751962 9.86576,-1.38647 2.48312,17.668134 35.53665,-4.994246 c 0.17967,0.121473 0.375,0.230664 0.54622,0.35981 3.43369,2.587387 6.01822,7.157588 7.14675,15.187716 l 16.80183,119.551077 -91.5118,12.86129 -16.80183,-119.551236 c -1.12856,-8.030157 0.0962,-13.135716 2.6836,-16.569396 0.12898,-0.171241 0.28681,-0.329515 0.42588,-0.496441 l 35.30694,-4.961945 z m 18.23179,174.727951 23.25936,-3.2689 1.66792,11.86788 -23.25936,3.26893 z"
-     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1112);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.29227061;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;filter:url(#filter1112);color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      sodipodi:nodetypes="ccccsscccccscccccccccccccsccccccccc" />
   <g
      transform="matrix(0.26458332,0,0,0.26458332,-1.5962918,-74.395783)"
-     style="font-size:96px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';letter-spacing:0px;word-spacing:0px;stroke:#ff0000;stroke-width:0.00133333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="font-size:96px;line-height:1.25;font-family:'Bookman Old Style';-inkscape-font-specification:'Bookman Old Style';letter-spacing:0px;word-spacing:0px;stroke:#ff0000;stroke-width:0.07599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="text869"
      aria-label="CO2"
      inkscape:transform-center-x="3.2596984"
      inkscape:transform-center-y="16.108011">
     <path
        id="path874"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';fill:none;stroke:#ff0000;stroke-width:0.00133333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';fill:none;stroke:#ff0000;stroke-width:0.07599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 702.32825,436.16135 q -0.5625,2.76562 -1.35938,7.73437 -0.79687,4.92188 -1.07812,7.64063 -10.03125,1.45312 -17.90625,1.45312 -7.59375,0 -14.15625,-1.875 -6.51563,-1.92187 -12,-6.23437 -5.4375,-4.35938 -7.78125,-10.21875 -2.34375,-5.85938 -2.34375,-13.125 0,-8.48438 3.14062,-15.23438 3.1875,-6.79687 9.09375,-11.29687 5.95313,-4.54688 13.03125,-6.46875 7.07813,-1.96875 14.625,-1.96875 6.9375,0 17.15625,1.78125 l 0.0937,3.9375 q 0.0937,2.57812 0.28125,5.67187 l 0.32813,5.34375 q -5.48438,-1.3125 -8.90625,-1.78125 -3.375,-0.46875 -6.28125,-0.46875 -6.32813,0 -11.39063,2.53125 -5.0625,2.53125 -7.96875,7.35938 -2.90625,4.82812 -2.90625,10.6875 0,5.34375 2.4375,9.1875 2.4375,3.79687 6.5625,5.90625 4.17188,2.0625 10.26563,2.0625 3.32812,0 7.21875,-0.51563 3.9375,-0.5625 9.84375,-2.10937 z" />
     <path
        sodipodi:nodetypes="cccsscccccsccccaaaccaasscsscc"
        id="path876"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';fill:none;stroke:#ff0000;stroke-width:0.00133333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';fill:none;stroke:#ff0000;stroke-width:0.07599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 745.23535,452.8443 c -5.28125,0 -7.87585,-0.54233 -12.7196,-1.91733 -4.84375,-1.40625 -9.0625,-3.65625 -12.65625,-6.75 -3.5625,-3.125 -6.09375,-6.59375 -7.59375,-10.40625 -1.5,-3.8125 -2.25,-8.04687 -2.25,-12.70312 0,-6.84375 1.57812,-12.84375 4.73437,-18 3.1875,-4.60853 6.29375,-9.53368 13.81904,-13.59234 5.37898,-2.47073 9.79716,-3.198 16.30312,-3.34317 l 0.24503,15.48849 c -5.75206,0.57107 -10.40828,4.33326 -12.75128,8.94247 -1.5625,3.125 -2.05341,6.62955 -2.05341,10.2233 0,3.3125 0.70313,6.34375 2.10938,9.09375 1.4375,2.75 5.42401,7.80967 12.68537,8.64631 z m 6.92884,-14.12599 c 4.90493,-0.23185 8.01507,-2.21164 10.82628,-5.02741 2.99951,-3.00437 5.08566,-7.32267 5.34545,-11.56009 0.33934,-5.53493 -1.3397,-11.75056 -5.08537,-15.83963 -2.69939,-2.94687 -6.23326,-4.57284 -11.05071,-4.64958 l -0.2142,-15.43693 c 5,0 8.65287,0.28548 12.69545,1.6527 4.50395,1.52325 8.84123,3.92271 12.35838,7.12201 3.09797,2.81802 5.5544,6.40072 7.27315,10.24447 1.71875,3.84375 2.57813,8.26562 2.57813,13.26562 0,5.25 -0.95313,10.07813 -2.85938,14.48438 -1.875,4.375 -4.59375,8.09375 -8.15625,11.15625 -1.78125,1.53125 -6.84612,5.13017 -10.94034,6.74262 -4.41452,1.73859 -9.35768,2.33721 -12.69746,2.18494 z" />
     <path
        sodipodi:nodetypes="cccccccccccccccscc"
        id="path878"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';baseline-shift:sub;fill:none;stroke:#ff0000;stroke-width:0.00133333;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:'Eras Bold ITC';-inkscape-font-specification:'Eras Bold ITC';baseline-shift:sub;fill:none;stroke:#ff0000;stroke-width:0.07599999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 795.43876,471.26106 c 0,0 0.21875,-4.1321 0.28125,-6.53835 0.0937,-2.4375 -0.0872,-3.76051 0.0378,-6.29176 5.23921,-5.18116 10.66459,-10.58839 15.01022,-15.1071 4.54707,-4.658 10.41643,-10.11029 7.62997,-14.97727 -4.48193,-6.89984 -15.94578,-0.10673 -21.41249,2.77643 0.70766,-5.32576 0.61816,-11.83934 0.76804,-15.74404 13.30611,-3.22283 20.3143,-6.83848 29.9963,-0.88324 5.19188,3.76569 6.93563,9.6398 6.97982,13.89332 -0.24569,6.09168 -3.03556,10.17813 -6.40823,14.4223 -6.3233,7.80712 -7.8569,8.82609 -15.34745,15.5213 l 7.91449,0.0469 c 6.64892,-0.12548 7.12707,-0.15853 13.87159,-0.84825 -0.0937,1.5 -0.25,3.375 -0.46875,5.625 -0.1875,2.25 -0.39063,5 -0.60938,8.25 -7.78125,-0.0625 -5.75993,-0.52921 -14.25993,-0.52921 -10.25,0 -23.98324,0.38397 -23.98324,0.38397 z" />
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824"
      transform="translate(-141.12928,82.723789)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914"
          cx="146.62762"
          cy="87.808891"
@@ -279,7 +279,7 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916"
          cx="146.62762"
          cy="87.808891" />
@@ -290,30 +290,30 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
      stroke="#000000"
      stroke-width="0.2"
      id="path4957"
-     style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <ellipse
-     style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2475-4-2-4-5"
      cx="123.7546"
      cy="85.566483"
      rx="1.4392915"
      ry="1.4392918" />
   <ellipse
-     style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2475-4-2-4-57"
      cx="88.649216"
      cy="85.824356"
      rx="1.4392915"
      ry="1.4392918" />
   <ellipse
-     style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2475-4-2-4-1"
      cx="88.833855"
      cy="126.47083"
      rx="1.4392915"
      ry="1.4392918" />
   <ellipse
-     style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path2475-4-2-4-8"
      cx="123.75156"
      cy="126.52249"
@@ -326,339 +326,339 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
      height="9.163126"
      width="12.163127"
      id="rect4281-5"
-     style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-54.353761,82.723789)"
      id="g1824-0">
     <g
        id="g3978-5"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-2"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-9"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-25.428584,82.723789)"
      id="g1824-8">
     <g
        id="g3978-3"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-5"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-5"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-73.637209,82.723789)"
      id="g1824-4">
     <g
        id="g3978-31"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-3"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-0"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-131.48755,82.723789)"
      id="g1824-86">
     <g
        id="g3978-34"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-4"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-3"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-121.84583,82.723789)"
      id="g1824-2">
     <g
        id="g3978-8"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-1"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-8"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-112.20411,82.723789)"
      id="g1824-9">
     <g
        id="g3978-2"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-10"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-2"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-92.920658,82.723789)"
      id="g1824-3">
     <g
        id="g3978-314"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-0"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-31"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-102.56238,82.723789)"
      id="g1824-98">
     <g
        id="g3978-9"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-47"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-88"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-63.995485,82.723789)"
      id="g1824-7">
     <g
        id="g3978-96"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-470"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-1"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-6.1451438,82.723789)"
      id="g1824-48">
     <g
        id="g3978-55"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-7"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-27"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-15.786864,82.723789)"
      id="g1824-73">
     <g
        id="g3978-91"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-59"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-25"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-35.070314,82.723789)"
      id="g1824-24">
     <g
        id="g3978-551"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-01"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-57"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-44.712034,82.723789)"
      id="g1824-70">
     <g
        id="g3978-94"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-32"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-6"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(-83.278934,82.723789)"
      id="g1824-6">
     <g
        id="g3978-4"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <circle
          r="2.4720466"
          cy="87.808891"
          cx="146.62762"
          id="path3914-03"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <ellipse
          cy="87.808891"
          cx="146.62762"
          id="path3916-67"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          rx="1.0383646"
          ry="1.0343978" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-24-4"
      transform="translate(3.4965862,82.723789)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-551-6">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-01-8"
          cx="146.62762"
          cy="87.808891"
@@ -666,38 +666,38 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-57-7"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g2078"
      transform="translate(-1.6211655,0.02961153)">
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4962"
        stroke-width="0.206421"
        stroke="#000000"
        d="M 31.655,72.079382 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133 m 2,4.266625 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133 m 2,4.266625 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133" />
     <g
-       style="stroke:#ff0000;stroke-width:0.00035235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.02008424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1,0,0,1.0024006,0.131043,-0.10237046)"
        id="g2056">
       <path
          id="path2030-2"
          d="M 43.523956,43.207034 V 72.074943"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path2032-9"
          d="M 43.523956,10.078178 V 38.946087"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      transform="translate(69.693801,0.02604097)"
      id="g2078-0">
     <path
@@ -705,79 +705,79 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
        stroke="#000000"
        stroke-width="0.206421"
        id="path4962-9"
-       style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <g
        id="g2056-5"
        transform="matrix(1,0,0,1.0024006,0.131043,-0.10237046)"
-       style="stroke:#ff0000;stroke-width:0.00035235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="stroke:#ff0000;stroke-width:0.02008424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 43.523956,43.207034 V 72.074943"
          id="path2030-2-2" />
       <path
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="M 43.523956,10.078178 V 38.946087"
          id="path2032-9-0" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g2078-0-4"
      transform="translate(121.68358,-0.00856596)">
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4962-9-6"
        stroke-width="0.206421"
        stroke="#000000"
        d="M 31.655,72.079382 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133 m 2,4.266625 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133 m 2,4.266625 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133" />
     <g
-       style="stroke:#ff0000;stroke-width:0.00035235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.02008424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1,0,0,1.0024006,0.131043,-0.10237046)"
        id="g2056-5-7">
       <path
          id="path2030-2-2-5"
          d="M 43.523956,43.207034 V 72.074943"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path2032-9-0-2"
          d="M 43.523956,10.078178 V 38.946087"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g2078-0-8"
      transform="translate(192.94575,0.01881594)">
     <path
-       style="fill:none;stroke:#ff0000;stroke-width:0.00035278;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;stroke:#ff0000;stroke-width:0.02010833;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="path4962-9-8"
        stroke-width="0.206421"
        stroke="#000000"
        d="M 31.655,72.079382 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133 m 2,4.266625 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133 m 2,4.266625 V 43.173003 m 0,-4.266624 V 10 m 2,4.266624 v 53.546133" />
     <g
-       style="stroke:#ff0000;stroke-width:0.00035235;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.02008424;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1,0,0,1.0024006,0.131043,-0.10237046)"
        id="g2056-5-5">
       <path
          id="path2030-2-2-0"
          d="M 43.523956,43.207034 V 72.074943"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          id="path2032-9-0-4"
          d="M 43.523956,10.078178 V 38.946087"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00035235;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="fill:none;stroke:#ff0000;stroke-width:0.02008424;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-0-0"
      transform="translate(90.032906,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-5-3">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-2-4"
          cx="146.62762"
          cy="87.808891"
@@ -785,22 +785,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-9-6"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-8-3"
      transform="translate(118.95809,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-3-8">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-5-4"
          cx="146.62762"
          cy="87.808891"
@@ -808,22 +808,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-5-3"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-4-3"
      transform="translate(70.74946,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-31-1">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-3-5"
          cx="146.62762"
          cy="87.808891"
@@ -831,22 +831,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-0-3"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-86-2"
      transform="translate(12.899121,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-34-0">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-4-4"
          cx="146.62762"
          cy="87.808891"
@@ -854,22 +854,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-3-5"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-2-1"
      transform="translate(22.540841,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-8-2">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-1-8"
          cx="146.62762"
          cy="87.808891"
@@ -877,22 +877,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-8-3"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-9-5"
      transform="translate(32.182561,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-2-5">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-10-9"
          cx="146.62762"
          cy="87.808891"
@@ -900,22 +900,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-2-8"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-3-3"
      transform="translate(51.466011,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-314-2">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-0-7"
          cx="146.62762"
          cy="87.808891"
@@ -923,22 +923,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-31-6"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-98-3"
      transform="translate(41.824291,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-9-0">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-47-5"
          cx="146.62762"
          cy="87.808891"
@@ -946,22 +946,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-88-5"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-7-7"
      transform="translate(80.391183,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-96-7">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-470-5"
          cx="146.62762"
          cy="87.808891"
@@ -969,22 +969,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-1-5"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-24-5"
      transform="translate(109.31636,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-551-5">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-01-9"
          cx="146.62762"
          cy="87.808891"
@@ -992,22 +992,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-57-6"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-70-9"
      transform="translate(99.674635,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-94-9">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-32-3"
          cx="146.62762"
          cy="87.808891"
@@ -1015,22 +1015,22 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-6-7"
          cx="146.62762"
          cy="87.808891" />
     </g>
   </g>
   <g
-     style="stroke-width:0.00035278;stroke-miterlimit:4;stroke-dasharray:none"
+     style="stroke-width:0.02010833;stroke-miterlimit:4;stroke-dasharray:none"
      id="g1824-6-2"
      transform="translate(61.107734,82.777445)">
     <g
-       style="stroke:#ff0000;stroke-width:0.00025389;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="stroke:#ff0000;stroke-width:0.01447165;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(1.3869472,0,0,1.3920533,-55.177057,-36.258129)"
        id="g3978-4-8">
       <circle
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3914-03-8"
          cx="146.62762"
          cy="87.808891"
@@ -1038,7 +1038,7 @@ SettingsUrl: http://www.festi.info/RoundedBox?FingerJoint_angle=90.0&amp;FingerJ
       <ellipse
          ry="1.0343978"
          rx="1.0383646"
-         style="fill:none;stroke:#ff0000;stroke-width:0.00025389;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:none;stroke:#ff0000;stroke-width:0.01447165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="path3916-67-3"
          cx="146.62762"
          cy="87.808891" />
