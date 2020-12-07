@@ -789,7 +789,7 @@
   (gr_text 3.3V (at 120.0148 73.6992) (layer B.SilkS) (tstamp 5F99F05F)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text GPIO15 (at 119.0148 75.9492) (layer B.SilkS) (tstamp 5F99F056)
+  (gr_text "GPIO 2" (at 119.0148 75.9492) (layer B.SilkS) (tstamp 5F99F056)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
   (gr_text GND (at 120.2648 78.6992) (layer B.SilkS) (tstamp 5F99F059)
