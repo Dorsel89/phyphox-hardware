@@ -27,10 +27,10 @@ F 4 "Espressif Systems" H 3550 3350 50  0001 L BNN "Feld4"
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R4
+L Device:R R2
 U 1 1 5F6FBB23
 P 6600 2300
-F 0 "R4" V 6393 2300 50  0000 C CNN
+F 0 "R2" V 6393 2300 50  0000 C CNN
 F 1 "4.7k" V 6484 2300 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 6530 2300 50  0001 C CNN
 F 3 "~" H 6600 2300 50  0001 C CNN
@@ -38,10 +38,10 @@ F 3 "~" H 6600 2300 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L Device:R R5
+L Device:R R3
 U 1 1 5F6FCE49
 P 6600 2650
-F 0 "R5" V 6393 2650 50  0000 C CNN
+F 0 "R3" V 6393 2650 50  0000 C CNN
 F 1 "4.7k" V 6484 2650 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 6530 2650 50  0001 C CNN
 F 3 "~" H 6600 2650 50  0001 C CNN
@@ -140,17 +140,6 @@ SDA
 Text GLabel 4850 2650 2    50   Input ~ 0
 SCL
 $Comp
-L Device:R R1
-U 1 1 5F70B10C
-P 6000 1100
-F 0 "R1" V 5793 1100 50  0000 C CNN
-F 1 "56" V 5884 1100 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 5930 1100 50  0001 C CNN
-F 3 "~" H 6000 1100 50  0001 C CNN
-	1    6000 1100
-	0    1    1    0   
-$EndComp
-$Comp
 L Device:LED_BARG D1
 U 1 1 5F70B699
 P 6350 1300
@@ -162,25 +151,14 @@ F 3 "https://www.mouser.de/datasheet/2/216/WP154A4SEJ3VBDZGW-CA-1145236.pdf" H 6
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R R3
+L Device:R R1
 U 1 1 5F70DE6F
 P 6000 1500
-F 0 "R3" V 5793 1500 50  0000 C CNN
-F 1 "1" V 5884 1500 50  0000 C CNN
+F 0 "R1" V 5793 1500 50  0000 C CNN
+F 1 "56" V 5884 1500 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 5930 1500 50  0001 C CNN
 F 3 "~" H 6000 1500 50  0001 C CNN
 	1    6000 1500
-	0    1    1    0   
-$EndComp
-$Comp
-L Device:R R2
-U 1 1 5F70EB26
-P 6000 1300
-F 0 "R2" V 5793 1300 50  0000 C CNN
-F 1 "1" V 5884 1300 50  0000 C CNN
-F 2 "Resistor_THT:R_Axial_DIN0309_L9.0mm_D3.2mm_P15.24mm_Horizontal" V 5930 1300 50  0001 C CNN
-F 3 "~" H 6000 1300 50  0001 C CNN
-	1    6000 1300
 	0    1    1    0   
 $EndComp
 $Comp
@@ -194,17 +172,17 @@ F 3 "" H 6550 1300 50  0001 C CNN
 	1    6550 1300
 	0    1    1    0   
 $EndComp
-Text GLabel 2250 3250 0    50   Input ~ 0
-RED
 Text GLabel 2250 3150 0    50   Input ~ 0
+RED
+Text GLabel 2250 3250 0    50   Input ~ 0
 BLUE
 Text GLabel 2250 3350 0    50   Input ~ 0
 GREEN
 Text GLabel 4850 3350 2    50   Input ~ 0
 RDY
-Text GLabel 5850 1100 0    50   Input ~ 0
-RED
 Text GLabel 5850 1500 0    50   Input ~ 0
+RED
+Text GLabel 5850 1100 0    50   Input ~ 0
 BLUE
 Text GLabel 5850 1300 0    50   Input ~ 0
 GREEN
@@ -229,17 +207,6 @@ F 2 "Connector_PinSocket_2.54mm:PinSocket_1x19_P2.54mm_Vertical" H 4700 3350 50 
 F 3 "~" H 4700 3350 50  0001 C CNN
 	1    4700 3350
 	1    0    0    -1  
-$EndComp
-$Comp
-L Connector:Conn_01x07_Male J3
-U 1 1 5F89FC9B
-P 7850 3700
-F 0 "J3" H 7822 3724 50  0000 R CNN
-F 1 "Conn_01x07_Male" H 7822 3633 50  0000 R CNN
-F 2 "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical" H 7822 3587 50  0001 R CNN
-F 3 "~" H 7850 3700 50  0001 C CNN
-	1    7850 3700
-	-1   0    0    -1  
 $EndComp
 Wire Wire Line
 	4850 2450 4500 2450
@@ -341,77 +308,6 @@ Wire Wire Line
 	2750 4150 2600 4150
 Wire Wire Line
 	2750 4250 2600 4250
-Wire Wire Line
-	7650 3500 7450 3500
-Wire Wire Line
-	7450 4200 7000 4200
-Wire Wire Line
-	7000 4200 7000 4100
-Wire Wire Line
-	7000 4100 7050 4100
-Wire Wire Line
-	6950 4100 7000 4100
-Connection ~ 7000 4100
-Wire Wire Line
-	6950 3600 7400 3600
-Wire Wire Line
-	7650 3600 7500 3600
-Wire Wire Line
-	7500 3600 7500 4250
-Wire Wire Line
-	7500 4250 5700 4250
-Wire Wire Line
-	5700 4250 5700 3800
-Connection ~ 5700 3800
-Wire Wire Line
-	5700 3800 5750 3800
-Wire Wire Line
-	7650 3700 7550 3700
-Wire Wire Line
-	7550 3700 7550 4300
-Wire Wire Line
-	7550 4300 5650 4300
-Wire Wire Line
-	5650 4300 5650 3900
-Connection ~ 5650 3900
-Wire Wire Line
-	5650 3900 5750 3900
-Wire Wire Line
-	5550 3800 5700 3800
-Wire Wire Line
-	5550 3900 5650 3900
-Wire Wire Line
-	5550 3600 5600 3600
-Wire Wire Line
-	7650 4000 7600 4000
-Wire Wire Line
-	7600 4000 7600 4350
-Wire Wire Line
-	7600 4350 5600 4350
-Wire Wire Line
-	5600 4350 5600 3600
-Connection ~ 5600 3600
-Wire Wire Line
-	6950 3800 7000 3800
-Wire Wire Line
-	7000 3900 7000 3800
-Connection ~ 7000 3800
-Wire Wire Line
-	7000 3800 7050 3800
-Wire Wire Line
-	7350 3900 7000 3900
-Wire Wire Line
-	7400 3900 7650 3900
-Wire Wire Line
-	7450 3500 7450 4200
-Wire Wire Line
-	7350 3800 7350 3900
-Wire Wire Line
-	7650 3800 7350 3800
-Wire Wire Line
-	7400 3600 7400 3900
-Wire Wire Line
-	5600 3600 5750 3600
 $Comp
 L phyphox_CO2_Monitor:SCD30 U2
 U 1 1 5F6FAC29
@@ -427,16 +323,129 @@ F 6 "Sensirion" H 6350 3800 50  0001 L BNN "Feld6"
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	6950 3400 7000 3400
+	6950 4100 7050 4100
 Wire Wire Line
-	7400 3400 7400 3500
+	6950 3800 7050 3800
 Wire Wire Line
-	7400 3500 7000 3500
+	6950 3400 7050 3400
 Wire Wire Line
-	7000 3500 7000 3400
+	5550 3600 5750 3600
 Wire Wire Line
-	7400 3400 7650 3400
-Connection ~ 7000 3400
+	5550 3900 5750 3900
 Wire Wire Line
-	7000 3400 7050 3400
+	5550 3800 5750 3800
+$Comp
+L Connector:Conn_01x05_Female J3
+U 1 1 5F9C7F55
+P 8500 3700
+F 0 "J3" H 8528 3726 50  0000 L CNN
+F 1 "Conn_01x05_Female" H 8528 3635 50  0000 L CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 8500 3700 50  0001 C CNN
+F 3 "~" H 8500 3700 50  0001 C CNN
+	1    8500 3700
+	1    0    0    -1  
+$EndComp
+Text GLabel 8300 3600 0    50   Input ~ 0
+ADC13GPIO15
+$Comp
+L power:GND #PWR0109
+U 1 1 5F9CB2FF
+P 8300 3700
+F 0 "#PWR0109" H 8300 3450 50  0001 C CNN
+F 1 "GND" V 8305 3572 50  0000 R CNN
+F 2 "" H 8300 3700 50  0001 C CNN
+F 3 "" H 8300 3700 50  0001 C CNN
+	1    8300 3700
+	0    1    1    0   
+$EndComp
+Text GLabel 8300 3800 0    50   Input ~ 0
+SCL
+Text GLabel 8300 3900 0    50   Input ~ 0
+SDA
+$Comp
+L power:VDD #PWR0110
+U 1 1 5F9CBD8E
+P 8300 3500
+F 0 "#PWR0110" H 8300 3350 50  0001 C CNN
+F 1 "VDD" V 8317 3628 50  0000 L CNN
+F 2 "" H 8300 3500 50  0001 C CNN
+F 3 "" H 8300 3500 50  0001 C CNN
+	1    8300 3500
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5850 1100 6150 1100
+Wire Wire Line
+	6150 1300 5850 1300
+Text GLabel 4700 3850 2    50   Input ~ 0
+ADC13GPIO15
+Wire Wire Line
+	4700 3850 4500 3850
+Connection ~ 4500 3850
+$Comp
+L Mechanical:MountingHole H1
+U 1 1 5F9DA999
+P 850 850
+F 0 "H1" H 950 896 50  0000 L CNN
+F 1 "MountingHole" H 950 805 50  0000 L CNN
+F 2 "phyphox_CO2_Monitor:MountingHoleM3" H 850 850 50  0001 C CNN
+F 3 "~" H 850 850 50  0001 C CNN
+	1    850  850 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H2
+U 1 1 5F9DB817
+P 850 1100
+F 0 "H2" H 950 1146 50  0000 L CNN
+F 1 "MountingHole" H 950 1055 50  0000 L CNN
+F 2 "phyphox_CO2_Monitor:MountingHoleM3" H 850 1100 50  0001 C CNN
+F 3 "~" H 850 1100 50  0001 C CNN
+	1    850  1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H3
+U 1 1 5F9DBA5A
+P 850 1350
+F 0 "H3" H 950 1396 50  0000 L CNN
+F 1 "MountingHole" H 950 1305 50  0000 L CNN
+F 2 "phyphox_CO2_Monitor:MountingHoleM3" H 850 1350 50  0001 C CNN
+F 3 "~" H 850 1350 50  0001 C CNN
+	1    850  1350
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H4
+U 1 1 5F9DBC4D
+P 850 1600
+F 0 "H4" H 950 1646 50  0000 L CNN
+F 1 "MountingHole" H 950 1555 50  0000 L CNN
+F 2 "phyphox_CO2_Monitor:MountingHoleM3" H 850 1600 50  0001 C CNN
+F 3 "~" H 850 1600 50  0001 C CNN
+	1    850  1600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H5
+U 1 1 5FA3E69B
+P 850 1950
+F 0 "H5" H 950 1996 50  0000 L CNN
+F 1 "MountingHole" H 950 1905 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 850 1950 50  0001 C CNN
+F 3 "~" H 850 1950 50  0001 C CNN
+	1    850  1950
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:MountingHole H6
+U 1 1 5FA3FA0E
+P 850 2200
+F 0 "H6" H 950 2246 50  0000 L CNN
+F 1 "MountingHole" H 950 2155 50  0000 L CNN
+F 2 "MountingHole:MountingHole_2mm" H 850 2200 50  0001 C CNN
+F 3 "~" H 850 2200 50  0001 C CNN
+	1    850  2200
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
