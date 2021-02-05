@@ -10,9 +10,16 @@
         <container size="1">hum_in</container>
         <container size="1">time_in</container>
         <container size="1" init="0">calibrationMode</container>
-		<container size="1" init="0">true_temp</container>
+		<container size="1" init="0">temp_offset</container>
+		<container size="1" init="0">temp_offset10</container>
+		
         <container size="1" init="0">calButton</container>
         <container size="6">byteArray</container>
+		
+		<container size="1" init="0">statusCoCalibration</container>
+		<container size="1" init="0">currentOffset</container>
+		<container size="1" init="0">version</container>		
+		
     </data-containers>
     <input>
         <bluetooth id="CO2" name="CO2"  mode="notification" rate="1" subscribeOnStart="false">
@@ -20,6 +27,11 @@
             <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="4">temp_in</output>
             <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="8">hum_in</output>
 			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="12">time_in</output>
+			
+			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="16">currentOffset</output>
+			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="17">statusCoCalibration</output>
+			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="18">version</output>
+
         </bluetooth>
     </input>
     <output>
@@ -33,13 +45,19 @@
         <!--|         Calibration button        |-->
         <!--¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯-->
 
+        <multiply>
+            <input type="value">10</input>
+            <input clear="false" >temp_offset</input>
+            <output as="product">temp_offset10</output>
+		</multiply>
+
         <append>
             <input type="value">0</input>
             <input >calibrationMode</input>
             <input type="value">0</input>
             <input type="value">0</input>
             <input type="value">0</input>
-			<input >true_temp</input>
+			<input clear="false">temp_offset10</input>
             <output as="out">byteArray</output>
 		</append>
 
@@ -75,28 +93,50 @@
             <separator height="1" />
             <separator color="white" />
             <separator height="1" />
+
+			<value label="Status:">
+				<input>statusCoCalibration</input>
+				<map min="0" max="0">waiting for calibration</map>
+				<map min="1" max="1">calibration received</map>		
+			</value>				
+
+            <separator height="1" />
+            <separator color="white" />
+            <separator height="1" />
+			
             <button label="Calibrate with fresh air">
                 <input type="value">1</input>
                 <output>calButton</output>
                 <input type="value">1</input>
                 <output>calibrationMode</output>					
-            </button>
+            </button>			
         </view>
         <view label="Temperature">
             <value label="SCD30 Temperature" size="1" precision="2" scientific="false" unit="°C">
                 <input>temp_in</input>
             </value>		
             <separator height="1" />
-		
-			<edit label="Temperature" signed="false" decimal="false" unit="°C"  factor="1" default="0">
-                <output>true_temp</output>
-            </edit>
-            <separator height="1" />			
-            <info size="1.2" label="Wait 5 minutes for the temperature to stabilize. Afterwards type the actual temperature of the room into the edit field above and press calibrate temperture. After you pressed the calibration button the ESP32 will restart and the temperature will drift to the right temperature over a couple of minutes." />
+
+			<info size="1.2" label="Due to the housing, the temperature near the sensor may heat up, causing it to indicate a higher temperature than the actual ambient temperature. To reduce this effect, you may enter a temperature offset." />
+
 			<separator height="1" />
             <separator color="white" />
+            <separator height="1" />
+			
+			<edit label="Offset" signed="false" decimal="true" unit="°C"  factor="1" default="0">
+                <output>temp_offset</output>
+            </edit>
             <separator height="1" />			
-            <button label="Calibrate temperature">
+
+			<value label="Current used offset" unit="°C" factor="0.1">
+				<input>currentOffset</input>
+			</value>
+
+			<separator height="1" />
+            <separator color="white" />
+            <separator height="1" />
+			
+            <button label="Set Temperatureoffset">
                 <input type="value">2</input>
                 <output>calButton</output>
                 <input type="value">2</input>
