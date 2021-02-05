@@ -140,7 +140,7 @@ SDA
 Text GLabel 4850 2650 2    50   Input ~ 0
 SCL
 $Comp
-L Device:LED_BARG D1
+L phyphox_CO2_Monitor:RGB_LED D1
 U 1 1 5F70B699
 P 6350 1300
 F 0 "D1" H 6350 1797 50  0000 C CNN
@@ -172,11 +172,11 @@ F 3 "" H 6550 1300 50  0001 C CNN
 	1    6550 1300
 	0    1    1    0   
 $EndComp
-Text GLabel 2250 3350 0    50   Input ~ 0
-RED
 Text GLabel 2250 3150 0    50   Input ~ 0
-BLUE
+RED
 Text GLabel 2250 3250 0    50   Input ~ 0
+BLUE
+Text GLabel 2250 3350 0    50   Input ~ 0
 GREEN
 Text GLabel 4850 3350 2    50   Input ~ 0
 RDY
