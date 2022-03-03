@@ -1,5 +1,5 @@
 <phyphox version="1.10">
-    <title>CO₂-Sensor Maintenance</title>
+    <title>CO₂-Monitor Maintenance</title>
     <category>CO₂-Sensor</category>
     <color>23AA47</color>
     <description>Maintenance and configuration of the CO₂ sensor.</description>
@@ -23,15 +23,14 @@
     </data-containers>
     <input>
         <bluetooth id="CO2" name="CO2"  mode="notification" rate="1" subscribeOnStart="false">
-            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian">co_in</output>
-            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="4">temp_in</output>
-            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="8">hum_in</output>
-			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="12">time_in</output>
+            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" >currentOffset</output>
+			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="1">statusCoCalibration</output>
+			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="2">version</output>
+            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="3">co_in</output>
+            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="7">temp_in</output>
+            <output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="11">hum_in</output>
+			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="float32LittleEndian" offset="15">time_in</output>
 			
-			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="16">currentOffset</output>
-			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="17">statusCoCalibration</output>
-			<output char="cddf1002-30f7-4671-8b43-5e40ba53514a" conversion="singleByte" offset="18">version</output>
-
         </bluetooth>
     </input>
     <output>
